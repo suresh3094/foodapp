@@ -1,0 +1,30 @@
+.paper {
+    width: 1700%;
+    margin-left: 325%;
+    display: flex;
+    background-color: #fefbd8;
+}
+.h4 {
+    color: "red";
+}
+.inputField {
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    height: 30px;
+}
+.headPaper {
+    background-color:#d5f4e6;
+    width: 1800%;
+    display: flex;
+    margin-left: 80%;
+}
+
+@media only screen and (max-width:768px){
+    // mobile footer 
+    .foo {
+        width: 768px;
+    }
+    
+
+}

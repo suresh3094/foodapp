@@ -1,0 +1,20 @@
+{
+    "announcementData" : [
+    {
+    
+        "description":"User Management",
+        "text": "Users Have to signup before login."
+        
+    },
+    
+    {
+        "description":"Covid-19",
+        "text": "Beaware of Covid-19 and maintain 1 metre distance"
+    },
+    
+    {
+        "description":"Precaution",
+        "text": "Please wear masks when you come out."
+    }
+]
+}
